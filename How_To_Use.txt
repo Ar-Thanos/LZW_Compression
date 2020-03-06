@@ -1,2 +1,2 @@
-This my LZW compression compression. I wrote the LZW.java file and figured out how to implement it. It will compress and decompress files. LZW is lossy compression. I have included several test files as well. 
+This my LZW compression compression. I wrote the LZW.java file and figured out how to implement it. It will compress and decompress files. LZW is lossless compression. I have included several test files as well. 
 Compilation instructions provided in LZW program file.
